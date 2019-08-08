@@ -15,9 +15,12 @@ Need the following packages.
 >3. scipy
 >4. matplotlib (option for drawing image)
 
-* * *
 
-You can use this script like this.
+
+How to use
+----------
+
+You can use this script like this. 
 ```
 import tusimple_data_parser as tdp
 
