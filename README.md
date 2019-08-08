@@ -5,8 +5,7 @@ Preprocessing for Tusimple_Lane_Detection data set
 This python script is preprocessing code for tusimple lane detection data set.  
 You can download the data in website and check the data set zip file.  
 
-I used some code in this stackoverflow page for drawing line.
-
+I used some code in this stackoverflow page for drawing line.  
 <https://stackoverflow.com/questions/31638651/how-can-i-draw-lines-into-numpy-arrays?rq=1>
 
 Need follow packages.
